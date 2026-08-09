@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ramesh%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%26%20Cybersecurity%20Professional&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=6,11,20,29&amp;text=Ramesh%20Kumar&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Aspiring%20Full-Stack%20Developer%20%26%20Cybersecurity%20Professional&amp;descSize=18&amp;descAlignY=55&amp;textBg=false" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I%20procrastinate%2C%20then%20somehow%20make%20it%20work." alt="Typing introduction" />
@@ -98,13 +100,13 @@
 <p align="center">
   <a href="nothing">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="umm">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="heyy">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="mailto:ramesh6280ic@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
